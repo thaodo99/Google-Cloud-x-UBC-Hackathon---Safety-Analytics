@@ -144,13 +144,4 @@ Some of the main findings from the dashboard and analysis include:
 
 ## Team
 
-This project was completed as part of the **Google Cloud Hackathon – Methanex Challenge**.
-
-Team 8 – *Safety in Your Area*
-
-- **Thao Do**
-- **Jasmine Fu**
-- **Liz Ji**
-- **Jessica Shi**
-
-Special thanks to my teammates for their collaboration on data exploration, modeling, dashboard development, and solution design.
+This project was completed as part of the **Google Cloud Hackathon – Methanex Challenge** by Team 8 – *Safety in Your Area* including Thao Do, Jasmine Fu, Liz Ji, Jessica Shi. Special thanks to my teammates for their collaboration on data exploration, modeling, dashboard development, and solution design.
